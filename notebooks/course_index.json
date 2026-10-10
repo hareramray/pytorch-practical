@@ -1,0 +1,122 @@
+[
+  {
+    "filename": "00_start_here.ipynb",
+    "title": "Your first PyTorch experiment",
+    "level": "Beginner",
+    "mins": "30–45"
+  },
+  {
+    "filename": "01_tensors.ipynb",
+    "title": "Tensors, indexing, and devices",
+    "level": "Beginner",
+    "mins": "45–60"
+  },
+  {
+    "filename": "02_shapes_and_broadcasting.ipynb",
+    "title": "Shapes, broadcasting, and matrix multiplication",
+    "level": "Beginner",
+    "mins": "45–60"
+  },
+  {
+    "filename": "03_autograd.ipynb",
+    "title": "Autograd and gradient descent",
+    "level": "Beginner",
+    "mins": "45–60"
+  },
+  {
+    "filename": "04_linear_regression.ipynb",
+    "title": "Linear regression from scratch",
+    "level": "Beginner",
+    "mins": "60–75"
+  },
+  {
+    "filename": "05_neural_networks.ipynb",
+    "title": "Build neural networks with nn.Module",
+    "level": "Beginner",
+    "mins": "60–90"
+  },
+  {
+    "filename": "06_datasets_and_dataloaders.ipynb",
+    "title": "Datasets, minibatches, and preprocessing",
+    "level": "Beginner → intermediate",
+    "mins": "60–75"
+  },
+  {
+    "filename": "07_classification.ipynb",
+    "title": "Binary and multiclass classification",
+    "level": "Intermediate",
+    "mins": "75–90"
+  },
+  {
+    "filename": "08_generalization.ipynb",
+    "title": "Generalization, regularization, and early stopping",
+    "level": "Intermediate",
+    "mins": "75–90"
+  },
+  {
+    "filename": "09_cnn_digits.ipynb",
+    "title": "Computer vision with a convolutional network",
+    "level": "Intermediate",
+    "mins": "75–100"
+  },
+  {
+    "filename": "10_transfer_learning.ipynb",
+    "title": "Transfer learning: freeze, replace, and fine-tune",
+    "level": "Intermediate",
+    "mins": "75–100"
+  },
+  {
+    "filename": "11_embeddings_and_text.ipynb",
+    "title": "Embeddings and a tiny text classifier",
+    "level": "Intermediate",
+    "mins": "60–90"
+  },
+  {
+    "filename": "12_sequence_forecasting.ipynb",
+    "title": "Sequence models and time-series forecasting",
+    "level": "Intermediate → advanced",
+    "mins": "75–100"
+  },
+  {
+    "filename": "13_attention_and_transformers.ipynb",
+    "title": "Attention and a tiny causal transformer",
+    "level": "Advanced",
+    "mins": "90–120"
+  },
+  {
+    "filename": "14_autoencoders.ipynb",
+    "title": "Denoising autoencoders and latent representations",
+    "level": "Advanced",
+    "mins": "75–90"
+  },
+  {
+    "filename": "15_checkpoints_and_inference.ipynb",
+    "title": "Checkpoints, reproducibility, and inference",
+    "level": "Advanced",
+    "mins": "60–90"
+  },
+  {
+    "filename": "16_custom_autograd_and_debugging.ipynb",
+    "title": "Custom gradients and systematic debugging",
+    "level": "Advanced / expert practice",
+    "mins": "75–100"
+  },
+  {
+    "filename": "17_performance.ipynb",
+    "title": "Profiling, gradient accumulation, AMP, and compilation",
+    "level": "Advanced / expert practice",
+    "mins": "90–120"
+  },
+  {
+    "filename": "18_distributed_training.ipynb",
+    "title": "Distributed training on two local CPU processes",
+    "level": "Advanced / expert practice",
+    "mins": "90–120"
+  },
+  {
+    "filename": "19_capstone.ipynb",
+    "title": "Capstone: a reproducible digit classification experiment",
+    "level": "Advanced / expert practice",
+    "mins": "120–180"
+  }
+]

@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+artifacts/
+validation/executed/
+validation/kernel/
+validation/plots/
+*.pyc
